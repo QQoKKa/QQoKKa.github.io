@@ -1050,9 +1050,6 @@
   position: relative;
   overflow: hidden;
   z-index: 1;
-  border: solid;
-  border-width: 0px 0px 0px 3px;
-  border-radius: 1px 3px 3px 1px;
 }
 
 .roleCircle-3xAZ1j {
