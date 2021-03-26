@@ -1076,7 +1076,8 @@
   background-color: #191f2e;
 }
 .container-3XJ8ns .container-cMG81i {
-  border-radius: 5px 5px 0 0;
+  border-radius: 0px 0px 0 0;
+  transform:rotate(45deg);
 }
 .container-3XJ8ns .list-1xE9GQ {
   margin: 0;
